@@ -1,3 +1,3 @@
 #  Copenhagen Alliance for Open Biblical Language Resources
 
-The Copenhagen Alliance for Open Biblical Language Resources is an alliance of organizations and individuals that negotiates for strategic resources to be freed, designs standards for interoperability and develops mission critical resources together in order to serve mother tongue translators, language learners, researchers, and software developers who make these resources accessible to users.
+The Copenhagen Alliance for Open Biblical Language Resources is a diverse coalition of organizations, institutions, and individuals with a common interest in making biblical language data free and openly accessible for anyone.
