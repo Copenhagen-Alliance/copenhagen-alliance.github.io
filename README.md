@@ -6,9 +6,7 @@ We formed this coalition at a workshop for researchers, language teachers, and t
 
 Some resources are created only for commercial use or cannot be freely licensed for other reasons.  We recognize that fact, and some of our members produce such resources. Our focus is on resources that can be freely licensed.
 
-## What do we mean by free?
-
-A resource is freely licensed if the license permits free use, reuse, modification, and sharing with others. A resource in the public domain is free by definition.  
+## Why are free resources important?
 
 Free resources are important because they allow people to build on each other's work and distribute it freely to others, creating communities of shared knowledge and purpose.  For instance:
 
@@ -18,9 +16,23 @@ Free resources are important because they allow people to build on each other's 
 - An existing text can be enhanced with morphology, syntax trees, annotations, and illustrations.
 - A translator can freely translate a work into new languages (this is not allowed for texts that are not freely licensed).
 
-Instead of spending their time negotiating licenses, creators can focus on doing their work, using standard licenses that spell out the terms so that a resource can be used without contacting and negotiating with the copyright holder.
+Even when copyright holders are willing to share their work, negotiating licenses and working with lawyers can consume significant time and effort.  With freely licensed resources, creators can focus on doing their work, using standard licenses that spell out the terms so that a resource can be used without contacting and negotiating with the copyright holder.
 
-## What licenses do we prefer?
+## What do we mean by free?
+
+A resource is freely licensed if the license permits free use, reuse, modification, and sharing with others. A resource in the public domain is free by definition.  If you create a work but do not license it, it is copyrighted by default, and nobody else can use it without your permisssion.  The best way to make a resource free is to create a clear license that identifies you as the copyright holder.
+
+Standard licenses are strongly preferred because the terms are well-understood by a large community and it is easy to get information on them. For content, you can generate a license at [Creative Commons](https://creativecommons.org/choose/) by making a few simple choices. For code, [choosealicense.com](https://choosealicense.com) provides an excellent overview of licensing options.
+
+For content, we like the following licenses:
+
+- [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) - this is not actually a license, but a way of dedicating a work to the public domain, clearly identifying yourself as the copyright holder who has the right to do so.
+- [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) - this license allows anyone to share or adapt your work as long as they attribute the copyright holder. You can specify how your work should be attributed, including a link to the definitive source.
+- [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) - this license allows anyone to share or adapt your work as long as they attribute the copyright holder and share their adaptations of the work on the same terms. You can specify how your work should be attributed, including a link to the definitive source.
+
+Sometimes a resource is licensed only for non-commercial use so that it can be sold for commercial purposes under a separate license. This limits the use of derivative works, but is sometimes the only way that a resource can be made available for non-commercial use.  For this purpose, [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) and [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) can be used.
+
+Some Creative Commons licenses do not permit derivatives.  We do not prefer such licenses.
 
 ## What do we mean by openly accessible?
 
