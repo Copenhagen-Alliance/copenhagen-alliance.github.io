@@ -36,9 +36,24 @@ For content, we like the following licenses:
 
 Sometimes a resource is licensed only for non-commercial use so that it can be sold for commercial purposes under a separate license. This limits the use of derivative works, but is sometimes the only way that a resource can be made available for non-commercial use.  For this purpose, [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) and [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) can be used.
 
-Some Creative Commons licenses do not permit derivatives.  These are not free culture licenses, but can be used when business models or other considerations prohibit freer licenses. Works licensed with no-derivatives licenses should consider granting permissions for translation, reformatting, adding morphology or syntax trees, subsetting the data, and annotation.
+Some Creative Commons licenses do not permit derivatives.  These are not free culture licenses, but can be used when business models or other considerations prohibit freer licenses. Works licensed with no-derivatives licenses should consider granting permissions for translation, reformatting, adding morphology or syntax trees, subsetting the data, and annotation.  (Creative Commons licenses do not allow new restrictions to be added to a license, but permissions can be granted for a more restrictive license.)
+
+References:
+
+- [What do we mean by free?](https://github.com/biblicalhumanities/copenhagen-alliance/issues/5)  (open issue)
+- [opendefinition.org](https://opendefinition.org) - a definition of "open" from [Open Knowledge International](https://okfn.org)
+- [Exploring openness in data and science: What is “open,” to whom, when, and why?](https://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.1450520100141)
+- [US Department of Educational Technology: Open Education](https://tech.ed.gov/open/)
+- [OER Commons](https://iskme.zendesk.com/hc/en-us/articles/115001003263-Introduction-to-OER)
+- [Free Translate 2.0 International Public License](https://unfoldingword.org/freetranslate/) - a license designed to give translation rights to a resource that does not allow other derivatives.
+- [The Christian Commons](https://unfoldingword.org/assets/docs/tcc/The-Christian-Commons_2.0.2.pdf)
+- [The Content Trap: A Strategist's Guide to Digital Change](https://www.amazon.com/Content-Trap-Strategists-Digital-Change-ebook/dp/B015BCX08A/)
 
 ## What do we mean by openly accessible?
+
+References:
+
+- [Technical Aspects of Openness](https://jktauber.com/2015/11/11/technical-aspects-openness/)
 
 ## What formats do we prefer?
 
