@@ -39,17 +39,6 @@ Some Creative Commons licenses do not permit commercial use. These are not free 
 
 Some Creative Commons licenses do not permit derivatives.  These are not free culture licenses, but can be used when business models or other considerations prohibit freer licenses. For this purpose, [Attribution-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nd/4.0/) or [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) can be used. Works licensed with no-derivatives licenses should consider granting permissions for translation, reformatting, adding morphology or syntax trees, subsetting the data, and annotation - see the [Free Translate 2.0 International Public License](https://unfoldingword.org/freetranslate/)  for an example of a license that does this. (Creative Commons licenses do not allow new restrictions to be added to a license, but permissions can be granted for a more restrictive license.)
 
-References:
-
-- [What do we mean by free?](https://github.com/biblicalhumanities/copenhagen-alliance/issues/5)  (open issue)
-- [opendefinition.org](https://opendefinition.org) - a definition of "open" from [Open Knowledge International](https://okfn.org)
-- [Exploring openness in data and science: What is “open,” to whom, when, and why?](https://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.1450520100141)
-- [US Department of Educational Technology: Open Education](https://tech.ed.gov/open/)
-- [OER Commons](https://iskme.zendesk.com/hc/en-us/articles/115001003263-Introduction-to-OER)
-- [Free Translate 2.0 International Public License](https://unfoldingword.org/freetranslate/) - a license designed to give translation rights to a resource that does not allow other derivatives.
-- [The Christian Commons](https://unfoldingword.org/assets/docs/tcc/The-Christian-Commons_2.0.2.pdf)
-- [The Content Trap: A Strategist's Guide to Digital Change](https://www.amazon.com/Content-Trap-Strategists-Digital-Change-ebook/dp/B015BCX08A/)
-
 ## Source Code Control
 
 Resources should be curated over time, correcting errors, adding new features, and responding to the needs of the community.
