@@ -28,7 +28,7 @@ A resource is freely licensed if the license permits free use, reuse, modificati
 
 Standard licenses are strongly preferred because the terms are well-understood by a large community and it is easy to get information on them. For content, you can generate a license at [Creative Commons](https://creativecommons.org/choose/) by making a few simple choices. For code, [choosealicense.com](https://choosealicense.com) provides an excellent overview of licensing options.
 
-For content, we like the following licenses:
+For content, we prefer [free culture licenses](https://creativecommons.org/share-your-work/public-domain/freeworks/), including these:
 
 - [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) - this is not actually a license, but a way of dedicating a work to the public domain, clearly identifying yourself as the copyright holder who has the right to do so.
 - [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) - this license allows anyone to share or adapt your work as long as they attribute the copyright holder. You can specify how your work should be attributed, including a link to the definitive source.
