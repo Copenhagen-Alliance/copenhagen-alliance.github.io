@@ -17,6 +17,7 @@ For instance:
 - A researcher can analyze the work of another researcher in new ways, using the same datasets and texts.
 - An existing text can be enhanced with morphology, syntax trees, annotations, and illustrations.
 - A translator can freely translate a work into new languages (this is not allowed for texts that are not freely licensed).
+- A translation association can freely translate a commentary or translator's notes into another language.
 
 Even when copyright holders are willing to share their work, negotiating licenses and working with lawyers can consume significant time and effort.  With freely licensed resources, creators can focus on doing their work, using standard licenses that spell out the terms so that a resource can be used without contacting and negotiating with the copyright holder.
 
