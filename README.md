@@ -61,6 +61,6 @@ We prefer human-readable standard formats that are also easy for programs to par
 
 - XML and well-formed HTML (often best for documents)
 - JSON (often best for objects)
-- CSV or TSV with header rows
+- CSV or TSV with descriptive header rows (for tabular data)
 
 ## What kinds of resources are we targeting?
