@@ -57,6 +57,10 @@ We prefer resources that are available in publicly accessible source code contro
 
 ## Standard Formats with Metadata and Extensibility
 
-We prefer human-readable standard formats that are also easy for programs to parse.  Some common formats that satisfy these requirements are XML and well-formed HTML (often best for documents), JSON (often best for objects), and CSV or TSV with header rows.
+We prefer human-readable standard formats that are also easy for programs to parse. These formats should support metadata and extensibility.  Some common formats that satisfy these requirements are:
+
+- XML and well-formed HTML (often best for documents)
+- JSON (often best for objects)
+- CSV or TSV with header rows
 
 ## What kinds of resources are we targeting?
