@@ -49,12 +49,14 @@ References:
 - [The Christian Commons](https://unfoldingword.org/assets/docs/tcc/The-Christian-Commons_2.0.2.pdf)
 - [The Content Trap: A Strategist's Guide to Digital Change](https://www.amazon.com/Content-Trap-Strategists-Digital-Change-ebook/dp/B015BCX08A/)
 
-## What do we mean by openly accessible?
+## Source Code Control
 
-References:
+Resources should be curated over time, correcting errors, adding new features, and responding to the needs of the community.
 
-- [Technical Aspects of Openness](https://jktauber.com/2015/11/11/technical-aspects-openness/)
+We prefer resources that are available in publicly accessible source code control systems like GitHub. These systems make it much easier for communities to access data, suggest corrections by opening issues, compare current versions to previous versions to see what changed, and to work together to add new features in branches.
 
-## What formats do we prefer?
+## Standard Formats with Metadata and Extensibility
+
+We prefer human-readable standard formats that are also easy for programs to parse.  Some common formats that satisfy these requirements are XML and well-formed HTML (often best for documents), JSON (often best for objects), and CSV or TSV with header rows.
 
 ## What kinds of resources are we targeting?
