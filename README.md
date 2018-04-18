@@ -81,4 +81,4 @@ We are targeting resources that are useful primarily for people working with tex
 - Catalogues of specific syntactic structures, e.g. articular infinitives, articular participles, circumstantial participles, supplementary participles, etc.
 - Cross-reference tables for versification across manuscripts and critical editions
 - Maps and GIS coordinates
-
+- Image catalogues keyed to verses or biblical words
