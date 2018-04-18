@@ -61,7 +61,7 @@ We are targeting resources that are useful primarily for people working with tex
 - Software platforms for working with biblical texts (translation, annotation, queries, research, etc.)
 - Images of manuscripts
 - Transcriptions of manuscripts
-- Critical Editions of Biblical Texts
+- Critical editions of biblical texts
 - Morphologies
 - Syntactic analyses
 - Headings and passage boundaries
