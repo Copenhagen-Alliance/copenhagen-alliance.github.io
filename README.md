@@ -1,10 +1,12 @@
+# The Copenhagen Alliance
+
 The **Copenhagen Alliance for Open Biblical Language Resources** is a diverse coalition of organizations, institutions, and individuals with a common interest in making biblical language data free and openly accessible to anyone for research, language learning, translation, and other uses.
 
 We formed this coalition at a workshop for researchers, language teachers, and translators in Copenhagen in March, 2018.  As we worked together, we realized that freely licensed resources would allow us to accomplish much more together. Some groups are blocked because they cannot use resources that other groups have. Several groups are creating similar resources because they are unaware of the work of other groups or because licensing restrictions prevent their use. This duplicate effort is inefficient.  Worse, many of these projects are not finished because of insufficient resources, or never achieve the level of quality that could be achieved if we pooled our effort.  We decided to form a coalition to identify existing resources, to promote free licensing for existing resources that can be shared, and to create new resources.
 
 Some resources are created only for commercial use or cannot be freely licensed for other reasons.  We recognize that fact, and some of our members produce such resources. Our focus is on resources that can be freely licensed.
 
-## Why are free resources important?
+# Why we need free resources
 
 Freely licensed resources can be used without contacting and negotiating with the copyright holder. That way, creators can focus on doing their work, using and building on the resources according to the terms of use spelled out in standard licenses.
 
@@ -20,7 +22,7 @@ For instance:
 
 Even when copyright holders are willing to share their work, negotiating licenses and working with lawyers can consume significant time and effort.  With freely licensed resources, creators can focus on doing their work, using standard licenses that spell out the terms so that a resource can be used without contacting and negotiating with the copyright holder.
 
-## What do we mean by free?
+# What counts as free?
 
 A resource is freely licensed if the license permits free use, reuse, modification, and sharing with others. A resource in the public domain is free by definition.  If you create a work but do not license it, it is copyrighted by default, and nobody else can use it without your permisssion.  The best way to make a resource free is to create a clear license that identifies you as the copyright holder.
 
@@ -36,13 +38,13 @@ Some Creative Commons licenses do not permit commercial use. These are not free 
 
 Some Creative Commons licenses do not permit derivatives.  These are not free culture licenses, but can be used when business models or other considerations prohibit derivatives. For this purpose, [Attribution-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nd/4.0/) or [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) can be used. Works licensed with no-derivatives licenses should consider granting permissions for translation, reformatting, adding morphology or syntax trees, subsetting the data, and annotation - see the [Free Translate 2.0 International Public License](https://unfoldingword.org/freetranslate/)  for an example of a license that does this. (Creative Commons licenses do not allow new restrictions to be added to a license, but permissions can be granted for a more restrictive license.)
 
-## Source Code Control
+# Curating resources with source code control
 
 Resources should be curated over time, correcting errors, adding new features, and responding to the needs of the community.
 
 We prefer resources that are available in publicly accessible source code control systems like GitHub. These systems make it much easier for communities to access data, suggest corrections by opening issues, compare current versions to previous versions to see what changed, and to work together to add new features in branches.
 
-## What kinds of resources are we targeting?
+# What resources do we need?
 
 We are targeting resources that are useful primarily for people working with texts in the original biblical languages. Here are some kinds of resources we would like to see freely available:
 
