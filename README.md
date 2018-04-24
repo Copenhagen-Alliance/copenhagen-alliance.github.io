@@ -6,7 +6,7 @@ We formed this coalition at a workshop for researchers, language teachers, and t
 
 Some resources are created only for commercial use or cannot be freely licensed for other reasons.  We recognize that fact, and some of our members produce such resources. Our focus is on resources that can be freely licensed.
 
-# Why free resources matter
+# Why free resources?
 
 Freely licensed resources can be used without contacting and negotiating with the copyright holder. That way, creators can focus on doing their work, using and building on the resources according to the terms of use spelled out in standard licenses.
 
