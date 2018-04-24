@@ -44,14 +44,6 @@ Resources should be curated over time, correcting errors, adding new features, a
 
 We prefer resources that are available in publicly accessible source code control systems like GitHub. These systems make it much easier for communities to access data, suggest corrections by opening issues, compare current versions to previous versions to see what changed, and to work together to add new features in branches.
 
-## Standard Formats with Metadata and Extensibility
-
-We prefer human-readable standard formats that are also easy for programs to parse. These formats should support metadata and extensibility.  Some common formats that satisfy these requirements are:
-
-- XML and well-formed HTML (often best for documents)
-- JSON (often best for objects)
-- CSV or TSV with descriptive header rows (for tabular data)
-
 ## What kinds of resources are we targeting?
 
 We are targeting resources that are useful primarily for people working with texts in the original biblical languages. Here are some kinds of resources we would like to see freely available:
