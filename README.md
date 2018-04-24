@@ -24,8 +24,6 @@ Even when copyright holders are willing to share their work, negotiating license
 
 ## What do we mean by free?
 
-> There is an open issue on this section - see https://github.com/biblicalhumanities/copenhagen-alliance/issues/5.
-
 A resource is freely licensed if the license permits free use, reuse, modification, and sharing with others. A resource in the public domain is free by definition.  If you create a work but do not license it, it is copyrighted by default, and nobody else can use it without your permisssion.  The best way to make a resource free is to create a clear license that identifies you as the copyright holder.
 
 Standard licenses are strongly preferred because the terms are well-understood by a large community and it is easy to get information on them. For content, you can generate a license at [Creative Commons](https://creativecommons.org/choose/) by making a few simple choices. For code, [choosealicense.com](https://choosealicense.com) provides an excellent overview of licensing options.
