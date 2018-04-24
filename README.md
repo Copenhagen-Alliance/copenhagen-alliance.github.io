@@ -6,7 +6,7 @@ We formed this coalition at a workshop for researchers, language teachers, and t
 
 Some resources are created only for commercial use or cannot be freely licensed for other reasons.  We recognize that fact, and some of our members produce such resources. Our focus is on resources that can be freely licensed.
 
-# Why we need free resources
+# Why free resources matter
 
 Freely licensed resources can be used without contacting and negotiating with the copyright holder. That way, creators can focus on doing their work, using and building on the resources according to the terms of use spelled out in standard licenses.
 
@@ -38,13 +38,13 @@ Some Creative Commons licenses do not permit commercial use. These are not free 
 
 Some Creative Commons licenses do not permit derivatives.  These are not free culture licenses, but can be used when business models or other considerations prohibit derivatives. For this purpose, [Attribution-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nd/4.0/) or [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) can be used. Works licensed with no-derivatives licenses should consider granting permissions for translation, reformatting, adding morphology or syntax trees, subsetting the data, and annotation - see the [Free Translate 2.0 International Public License](https://unfoldingword.org/freetranslate/)  for an example of a license that does this. (Creative Commons licenses do not allow new restrictions to be added to a license, but permissions can be granted for a more restrictive license.)
 
-# Curating resources with source code control
+# Curating resources
 
 Resources should be curated over time, correcting errors, adding new features, and responding to the needs of the community.
 
 We prefer resources that are available in publicly accessible source code control systems like GitHub. These systems make it much easier for communities to access data, suggest corrections by opening issues, compare current versions to previous versions to see what changed, and to work together to add new features in branches.
 
-# What resources do we need?
+# What kinds of resources?
 
 We are targeting resources that are useful primarily for people working with texts in the original biblical languages. Here are some kinds of resources we would like to see freely available:
 
