@@ -8,7 +8,7 @@ Some resources are created only for commercial use or cannot be freely licensed 
 
 ## Why are free resources important?
 
-Freely licensed resources can be used without contacting and negotiating with the copyright holder. That way, creators can focus on doing their work, using and building on the resources according to the terms of use spelled out in standard licenses. 
+Freely licensed resources can be used without contacting and negotiating with the copyright holder. That way, creators can focus on doing their work, using and building on the resources according to the terms of use spelled out in standard licenses.
 
 For instance:
 
