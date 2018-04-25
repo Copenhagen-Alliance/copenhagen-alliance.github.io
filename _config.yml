@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Copenhagen Alliance
 description: for Open Biblical Resources
 show_downloads: false 
+
+markdown: kramdown
