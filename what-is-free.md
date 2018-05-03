@@ -1,0 +1,15 @@
+# What Counts as Free?
+
+A resource is freely licensed if the license permits free use, reuse, modification, and sharing with others. A resource in the public domain is free by definition.  If you create a work but do not license it, it is copyrighted by default, and nobody else can use it without your permisssion.  The best way to make a resource free is to create a clear license that identifies you as the copyright holder.
+
+Standard licenses are strongly preferred because the terms are well-understood by a large community and it is easy to get information on them. For content, you can generate a license at [Creative Commons](https://creativecommons.org/choose/) by making a few simple choices. For code, [choosealicense.com](https://choosealicense.com) provides an excellent overview of licensing options.
+
+For content, we prefer [free culture licenses](https://creativecommons.org/share-your-work/public-domain/freeworks/), including these:
+
+- [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) - this is not actually a license, but a way of dedicating a work to the public domain, clearly identifying yourself as the copyright holder who has the right to do so.
+- [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) - this license allows anyone to share or adapt your work as long as they attribute the copyright holder. You can specify how your work should be attributed, including a link to the definitive source.
+- [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) - this license allows anyone to share or adapt your work as long as they attribute the copyright holder and share their adaptations of your work on the same terms. You can specify how your work should be attributed, including a link to the definitive source.
+
+Some Creative Commons licenses do not permit commercial use. These are not free culture licenses, but can be used when business models or other considerations prohibit commercial use. For this purpose, [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) can be used.  A separate license can be created for commercial use.
+
+Some Creative Commons licenses do not permit derivatives.  These are not free culture licenses, but can be used when business models or other considerations prohibit derivatives. For this purpose, [Attribution-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nd/4.0/) or [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) can be used. Works licensed with no-derivatives licenses should consider granting permissions for translation, reformatting, adding morphology or syntax trees, subsetting the data, and annotation - see the [Free Translate 2.0 International Public License](https://unfoldingword.org/freetranslate/)  for an example of a license that does this. (Creative Commons licenses do not allow new restrictions to be added to a license, but permissions can be granted for a more restrictive license.)
