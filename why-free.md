@@ -1,4 +1,4 @@
-# Free Resources Enable Creators and Researchers
+# Free Resources Enable Creativity and Research
 
 Freely licensed resources can be used without contacting and negotiating with the copyright holder. That way, creators can focus on doing their work, using and building on the resources according to the terms of use spelled out in standard licenses.
 
