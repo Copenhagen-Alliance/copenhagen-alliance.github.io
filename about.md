@@ -14,4 +14,4 @@ Some resources are created only for commercial use or cannot be freely licensed 
 - Jonathan Robie, SIL International
 - Randall Tan, Global Bible Initiative
 - James Tauber, MorphGNT
-- Nicolai Winther-Nielsen, Global Learning Initiative
+- Nicolai Winther-Nielsen, Global Learning Initiative, FIUC-DK, Copenhagen
