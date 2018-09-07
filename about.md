@@ -9,7 +9,7 @@ Some resources are created only for commercial use or cannot be freely licensed 
 - Bryce Allison, American Bible Society
 - Reinier de Blois, United Bible Societies
 - Jesse Griffin, unfoldingWord
-- Wido van Peursen, Eep Taalstra Centre for Bible and Computer, VU University Amsterdam
+- Wido van Peursen, Eep Talstra Centre for Bible and Computer, VU University Amsterdam
 - Paul O’Rear, SIL International
 - Jonathan Robie, SIL International
 - Randall Tan, Global Bible Initiative
