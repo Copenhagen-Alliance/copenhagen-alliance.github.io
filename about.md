@@ -8,10 +8,10 @@ Some resources are created only for commercial use or cannot be freely licensed 
 
 - Bryce Allison, American Bible Society
 - Reinier de Blois, United Bible Societies
-- Jesse Griffin, Distant Shores Media
+- Jesse Griffin, unfoldingWord
 - Wido van Peursen, Eep Taalstra Centre for Bible and Computer, VU University Amsterdam
 - Paul O’Rear, SIL International
 - Jonathan Robie, SIL International
 - Randall Tan, Global Bible Initiative
 - James Tauber, MorphGNT
-- Nicolai Winther-Nielsen, Fjellhaug International University College Denmark · Hebrew Bible
+- Nicolai Winther-Nielsen, Global Learning Initiative
