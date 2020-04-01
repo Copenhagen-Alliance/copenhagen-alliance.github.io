@@ -1,4 +1,4 @@
-#  Versification in JSON
+#  Copenhagen Alliance Versification Working Group
 
 This directory contains work by the Versification Working Group of the Copenhagen Alliance.  The Working Group members are:
 
@@ -13,29 +13,10 @@ Software that needs to align resources or resolve references in links faces a ch
 
 Here are the deliverables this Working Group is working on.
 
-## A Versification Format
+## Versification Mappings
 
-The Versification Working Group will provide the following:
+A **versification mapping** identifies the versification of a specific Scripture text by describing how it differs from a base text. The `versification-mappings` directory specifies a JSON format for versification mappings. The JSON format was created by Mark Howe of UBS, based on the VRS versification format used in Paratext.
 
-1. A JSON schema for specifying the versification scheme of a scripture text.
-2. A base versification file (`org.json`) and sample versification files that describe the versification of some well-known Scriptures.
-3. Documentation describing the schema and how to interpret these files.
-4. Sample code for converting among schemes
+## Versification Sniffing
 
-This versification format is derived from versification files used in Paratext, which used a different format.
-
-## Rules for Versification
-
-The Versification Working Group will provide the following:
-
-1. Rules for Versification - a set of rules, expressed in JSON, to identify the versification scheme used in a given Scripture text.
-2. Documention describing the format for these rules and how to use them.
-3. Sample code for identifying the versification scheme for a text.
-
-
-
-
-
-
-
-## Rules for Versification
+**Versification sniffing** refers to applying a set of rules to a Scripture text in order to identify its versification.  The original set of rules used for this was created by David Instone-Brewer.  The JSON format was created by Chris Vaughn and Jonathan Robie.
