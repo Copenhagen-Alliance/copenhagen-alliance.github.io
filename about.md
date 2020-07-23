@@ -15,3 +15,4 @@ Some resources are created only for commercial use or cannot be freely licensed 
 - Randall Tan, Global Bible Initiative
 - James Tauber, MorphGNT
 - Nicolai Winther-Nielsen, Global Learning Initiative, FIUC-DK, Copenhagen
+- Elizabeth Robar, Cambridge Digital Bible Research
