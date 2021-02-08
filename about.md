@@ -12,7 +12,7 @@ Some resources are created only for commercial use or cannot be freely licensed 
 - Wido van Peursen, Eep Talstra Centre for Bible and Computer, VU University Amsterdam
 - Paul O’Rear, SIL International
 - Jonathan Robie, SIL International
-- Randall Tan, Global Bible Initiative
+- Randall Tan, Clear Bible, Inc
 - James Tauber, MorphGNT
 - Nicolai Winther-Nielsen, Global Learning Initiative, FIUC-DK, Copenhagen
 - Elizabeth Robar, Cambridge Digital Bible Research
