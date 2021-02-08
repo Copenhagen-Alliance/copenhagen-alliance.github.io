@@ -7,7 +7,7 @@ Some resources are created only for commercial use or cannot be freely licensed 
 # Steering Committee
 
 - Bryce Allison, American Bible Society
-- Reinier de Blois, United Bible Societies
+- Reinier de Blois, Nida Institute at American Bible Society
 - Jesse Griffin, unfoldingWord
 - Wido van Peursen, Eep Talstra Centre for Bible and Computer, VU University Amsterdam
 - Paul O’Rear, SIL International
